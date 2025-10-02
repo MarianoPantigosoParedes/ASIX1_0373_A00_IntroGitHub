@@ -44,3 +44,8 @@ awdnawondawndoawndaiwndoaiwndiawndioa
 [LINK](https://markdown.es/)
 
 ![alt text](./imagen1.jpg)
+
+|jugador|Equipo|Nombre|
+10|PSG|Dembele
+10|Barcelona|Yamal
+9|Miami|Suarez
